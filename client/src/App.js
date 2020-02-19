@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import SavedList from './Movies/SavedList';
 import Movie from './Movies/Movie';
-import MovieCard from './Movies/MovieCard';
+// import MovieCard from './Movies/MovieCard';
 import MovieList from './Movies/MovieList';
 
 const App = () => {
